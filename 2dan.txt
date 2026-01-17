@@ -8,6 +8,10 @@
 2 * 8 = 16
 2 * 9 = 18
 
+--edit start
+test 2dan.txt
+--edit end
+
 
 1 1 1
 1 2 2
