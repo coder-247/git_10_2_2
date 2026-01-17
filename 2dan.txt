@@ -15,5 +15,3 @@ test 2dan.txt
 
 1 1 1
 1 2 2
-
-test
